@@ -1,0 +1,8 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"drv_mcp3202_tb_time_impl.v" \
+"../../../../../p2_cmoda7_MP3202_Demo.srcs/sources_1/new/drv_mcp3202.v" \
+"../../../../../p2_cmoda7_MP3202_Demo.srcs/sim_1/new/drv_mcp3202_tb.v" \
+
+# Do not sort compile order
+nosort
