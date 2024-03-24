@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/prj_FPGA/p2_cmoda7_MP3202_Demo/p2_cmoda7_MP3202_Demo.srcs/sources_1/new/drv_mcp3202.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module drv_mcp3202
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/prj_FPGA/p2_cmoda7_MP3202_Demo/p2_cmoda7_MP3202_Demo.srcs/sim_1/new/drv_mcp3202_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module drv_mcp3202_tb
